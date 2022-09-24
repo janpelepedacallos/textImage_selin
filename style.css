@@ -1,0 +1,20 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #000;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    margin-top: 0;
+    font-size: 10px;
+    line-height: 10px;
+    text-align: justify;
+    background: url(img/116634516_3120814951373340_3380095260906764215_n.jpg) no-repeat center;
+    background-size: cover;
+    filter: grayscale(1);
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgb(255, 255, 255, 0);
+}
